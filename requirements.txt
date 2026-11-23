@@ -1,0 +1,4 @@
+anthropic
+pdfplumber
+pandas
+streamlit
